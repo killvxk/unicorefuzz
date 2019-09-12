@@ -24,3 +24,9 @@ modules.order
 *.pub
 .vscode
 .idea
+core.*
+debootstrap
+unicore_workdir
+unicorefuzz/uDdbg
+.fuse*
+unicorefuzz/AFLplusplus
